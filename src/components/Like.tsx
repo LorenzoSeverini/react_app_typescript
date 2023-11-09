@@ -18,4 +18,4 @@ const Like = ({onClick}: Props) => {
     return < AiOutlineHeart size={20} onClick={toggle}/>
 }
 
-export default Like
+export default Like;
